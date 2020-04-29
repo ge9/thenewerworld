@@ -1,0 +1,26 @@
+[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:01:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[08:01:40] [Server thread/INFO]: Loading properties
+[08:01:40] [Server thread/INFO]: Default game type: SURVIVAL
+[08:01:40] [Server thread/INFO]: Generating keypair
+[08:01:40] [Server thread/INFO]: Starting Minecraft server on *:25585
+[08:01:40] [Server thread/INFO]: Using epoll channel type
+[08:01:40] [Server thread/INFO]: Preparing level "world"
+[08:01:40] [Server thread/INFO]: Reloading ResourceManager: Default
+[08:01:53] [Server thread/INFO]: Loaded 6 recipes
+[08:01:53] [Server thread/INFO]: Loaded 825 advancements
+[08:01:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
+[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
+[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
+[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
+[08:01:56] [Server thread/INFO]: Preparing spawn area: 98%
+[08:01:56] [Server thread/INFO]: Time elapsed: 2029 ms
+[08:01:56] [Server thread/INFO]: Done (15.542s)! For help, type "help"
+[08:15:26] [User Authenticator #1/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
+[08:15:26] [Server thread/INFO]: RussianModnik[/127.0.0.1:43708] logged in with entity id 128 at (-16407.743024828505, 96.0, 6176.416322565464)
+[08:15:26] [Server thread/INFO]: RussianModnik joined the game
