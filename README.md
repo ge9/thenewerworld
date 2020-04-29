@@ -1,3 +1,5 @@
 # README
 
-This file is practically empty for now.
+## Useful links
+
+https://www.minecraft.net/en-us/download/server/
