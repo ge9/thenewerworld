@@ -24,3 +24,18 @@
 [08:15:26] [User Authenticator #1/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
 [08:15:26] [Server thread/INFO]: RussianModnik[/127.0.0.1:43708] logged in with entity id 128 at (-16407.743024828505, 96.0, 6176.416322565464)
 [08:15:26] [Server thread/INFO]: RussianModnik joined the game
+[09:55:43] [Server thread/INFO]: RussianModnik lost connection: Disconnected
+[09:55:43] [Server thread/INFO]: RussianModnik left the game
+[09:55:52] [Server thread/INFO]: Stopping the server
+[09:55:52] [Server thread/INFO]: Stopping server
+[09:55:52] [Server thread/INFO]: Saving players
+[09:55:52] [Server thread/INFO]: Saving worlds
+[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
