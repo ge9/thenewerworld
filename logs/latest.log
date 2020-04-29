@@ -1,41 +1,49 @@
-[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08:01:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[08:01:40] [Server thread/INFO]: Loading properties
-[08:01:40] [Server thread/INFO]: Default game type: SURVIVAL
-[08:01:40] [Server thread/INFO]: Generating keypair
-[08:01:40] [Server thread/INFO]: Starting Minecraft server on *:25585
-[08:01:40] [Server thread/INFO]: Using epoll channel type
-[08:01:40] [Server thread/INFO]: Preparing level "world"
-[08:01:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[08:01:53] [Server thread/INFO]: Loaded 6 recipes
-[08:01:53] [Server thread/INFO]: Loaded 825 advancements
-[08:01:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
-[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
-[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
-[08:01:55] [Server thread/INFO]: Preparing spawn area: 0%
-[08:01:56] [Server thread/INFO]: Preparing spawn area: 98%
-[08:01:56] [Server thread/INFO]: Time elapsed: 2029 ms
-[08:01:56] [Server thread/INFO]: Done (15.542s)! For help, type "help"
-[08:15:26] [User Authenticator #1/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
-[08:15:26] [Server thread/INFO]: RussianModnik[/127.0.0.1:43708] logged in with entity id 128 at (-16407.743024828505, 96.0, 6176.416322565464)
-[08:15:26] [Server thread/INFO]: RussianModnik joined the game
-[09:55:43] [Server thread/INFO]: RussianModnik lost connection: Disconnected
-[09:55:43] [Server thread/INFO]: RussianModnik left the game
-[09:55:52] [Server thread/INFO]: Stopping the server
-[09:55:52] [Server thread/INFO]: Stopping server
-[09:55:52] [Server thread/INFO]: Saving players
-[09:55:52] [Server thread/INFO]: Saving worlds
-[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:55:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:55:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:57:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:57:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:57:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:57:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:57:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:57:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[09:57:00] [Server thread/INFO]: Loading properties
+[09:57:00] [Server thread/INFO]: Default game type: SURVIVAL
+[09:57:00] [Server thread/INFO]: Generating keypair
+[09:57:00] [Server thread/INFO]: Starting Minecraft server on *:25585
+[09:57:01] [Server thread/INFO]: Using epoll channel type
+[09:57:01] [Server thread/INFO]: Preparing level "world"
+[09:57:01] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:57:11] [User Authenticator #1/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
+[09:57:23] [Server thread/INFO]: Loaded 6 recipes
+[09:57:23] [Server thread/INFO]: Loaded 825 advancements
+[09:57:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:57:24] [User Authenticator #2/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
+[09:57:25] [Server thread/INFO]: Preparing spawn area: 0%
+[09:57:25] [Server thread/INFO]: Preparing spawn area: 0%
+[09:57:25] [Server thread/INFO]: Preparing spawn area: 0%
+[09:57:25] [Server thread/INFO]: Preparing spawn area: 0%
+[09:57:25] [Server thread/INFO]: Preparing spawn area: 44%
+[09:57:25] [Server thread/INFO]: Time elapsed: 2165 ms
+[09:57:25] [Server thread/INFO]: Done (24.574s)! For help, type "help"
+[09:57:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@435cbb68[id=38d5d2b5-6459-4dee-91e5-5eafc20ba38d,name=RussianModnik,properties={textures=[com.mojang.authlib.properties.Property@dc1c560b]},legacy=false] (/127.0.0.1:47182) lost connection: Disconnected
+[09:57:26] [Server thread/INFO]: RussianModnik[/127.0.0.1:47188] logged in with entity id 122 at (-16419.700000025332, 89.0000002, 6172.299999974668)
+[09:57:26] [Server thread/INFO]: RussianModnik joined the game
+[10:52:10] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/6736, l='world', x=-16408.01, y=76.35, z=6095.10]
+[10:59:03] [Server thread/INFO]: RussianModnik lost connection: Disconnected
+[10:59:03] [Server thread/INFO]: RussianModnik left the game
+[11:51:16] [User Authenticator #3/INFO]: UUID of player RussianModnik is 38d5d2b5-6459-4dee-91e5-5eafc20ba38d
+[11:51:16] [Server thread/INFO]: RussianModnik[/127.0.0.1:49712] logged in with entity id 7682 at (-16424.666130710793, 88.0, 6212.961311071861)
+[11:51:16] [Server thread/INFO]: RussianModnik joined the game
+[12:07:17] [Server thread/INFO]: RussianModnik lost connection: Disconnected
+[12:07:17] [Server thread/INFO]: RussianModnik left the game
+[12:07:27] [Server thread/INFO]: Stopping the server
+[12:07:27] [Server thread/INFO]: Stopping server
+[12:07:27] [Server thread/INFO]: Saving players
+[12:07:27] [Server thread/INFO]: Saving worlds
+[12:07:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:07:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:07:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
